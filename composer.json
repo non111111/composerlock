@@ -1,0 +1,6 @@
+{
+    "require": {
+        "drupal/drupal": "^8.7",
+        "drupal/core": "^8.7"
+    }
+}
